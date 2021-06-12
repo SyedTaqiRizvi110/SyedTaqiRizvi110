@@ -4,7 +4,7 @@
 
 ### Contact Me Via
 
-[<img align="left" alt="GitHub22px | GitHub" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="GitHub22px | GitHub" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website](https://www.youtube.com/channel/UC1OzyIhzoaUB83YZXyZn4uA)
 [<img align="left" alt="Syed Taqi Rizvi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Syed Taqi Rizvi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Syed Taqi Rizvi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
