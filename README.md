@@ -1,8 +1,8 @@
-### Syed Taqi Rizvi
+# Syed Taqi Rizvi
 
 <br/> 
 
-### Contact Me Via
+## Contact Me Via
 
 [<img align="left" alt="GitHub22px | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/SyedTaqiRizvi110)
 [<img align="left" alt="Syed Taqi Rizvi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC1OzyIhzoaUB83YZXyZn4uA)
