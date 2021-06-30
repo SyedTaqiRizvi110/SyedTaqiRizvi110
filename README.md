@@ -1,7 +1,7 @@
 # Syed Taqi Rizvi
 
 I am a software developer and a teacher.
-I've experience over many projects on Microsoft .NET technologies such as ASP.NET MVC, Java, PHP, HTML5/CSS3/JS and bootstrap.
+I've experience over many projects on Microsoft .NET technologies such as ASP.NET MVC, Windows Form also worked on Java, PHP, HTML5/CSS3/JS and bootstrap.
 
 ## Contact Me Via
 
