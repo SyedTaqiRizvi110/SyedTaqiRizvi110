@@ -1,7 +1,7 @@
 # Syed Taqi Rizvi
 
 I am a software developer and a teacher.
-I've experience over many projects on Microsoft .NET technologies such as ASP.NET MVC, Windows Form also worked on Java, PHP, HTML5/CSS3/JS and bootstrap.
+Skilled in Web Development using C#, ASP.NET MVC5, ASP.NET Core, WEB API, Entity Framework, MS SQL Server, and Object-Oriented Programming (OOP). To accelerate my education and passion for technology, I am currently working at Aptech as a faculty teacher.
 
 ## Contact Me Via
 
