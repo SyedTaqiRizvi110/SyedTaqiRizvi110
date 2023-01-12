@@ -24,6 +24,4 @@ Skilled in Web Development using C#, ASP.NET MVC5, ASP.NET Core, WEB API, Entity
 
 <br/>
 
-### GitHub Statistics <br/>
-{<img src="https://github-readme-stats.vercel.app/api?username=SyedTaqiRizvi110&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
