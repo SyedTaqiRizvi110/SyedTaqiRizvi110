@@ -1,7 +1,20 @@
 # Syed Taqi Rizvi
 
-I am a software developer and a teacher.
-Skilled in Web Development using C#, ASP.NET MVC5, ASP.NET Core, WEB API, Entity Framework, MS SQL Server, and Object-Oriented Programming (OOP). To accelerate my education and passion for technology, I am currently working at Aptech as a faculty teacher.
+Hi. I am a professional software developer with industry expertise in application design, development, and maintenance utilising Microsoft.NET technologies. Excellent understanding of the.NET platform, as well as OO design, SOLID design concepts,
+
+I have been working on Web Development using C#, ASP.NET MVC5, ASP.NET Core, WEB API, Entity Framework, MS SQL Server, and Object-Oriented Programming (OOP). To accelerate my education and passion for technology, I am currently working at Aptech as a senior faculty and deputy center academic head.
+
+With a zest for exploration, I am continuously exploring new knowledge and ready to learn more. 🙂
+
+CORE AREAS OF EXPERTISE:
+◆ C#, ASP.NET MVC | ASP.NET Core | REST WEB API | Entity Framework
+◆ MS SQL Server | MySQL | PostgreSQL
+◆ Node.js | Express JS | Nest JS
+◆ AngularJS/Angular | React.js | Vue.js
+◆ JavaScript Vanilla/ES 6/ ES 7 | TypeScript | HTML | CSS
+◆ IIS
+◆ Git | GitLab CI CD / Github CI CD
+◆ Azure / AWS
 
 ## Contact Me Via
 
