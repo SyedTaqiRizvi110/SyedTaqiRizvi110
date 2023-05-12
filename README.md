@@ -1,4 +1,4 @@
-# Syed Taqi Rizvi
+# SYED TAQI RIZVI
 
 Hi. I am a professional software developer with industry expertise in application design, development, and maintenance utilising Microsoft.NET technologies. Excellent understanding of the.NET platform, as well as OO design, SOLID design concepts,
 
